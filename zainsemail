@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>You're Invited to Zain's 4th Birthday!</title>
+    <style>
+        /* Basic styles for email clients that support them */
+        body {
+            margin: 0;
+            padding: 0;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+            font-family: Arial, sans-serif;
+        }
+        table, td {
+            border-collapse: collapse;
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+        img {
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+        }
+        /* Responsive styles */
+        @media screen and (max-width: 600px) {
+            .container {
+                width: 100% !important;
+                max-width: 100% !important;
+            }
+        }
+    </style>
+</head>
+<body style="margin: 0; padding: 0; background-color: #f0f4f8;">
+    <center>
+        <table align="center" border="0" cellpadding="0" cellspacing="0" class="container" style="width:100%; max-width:600px;">
+            <tr>
+                <td align="center" valign="top" style="padding: 20px;">
+                    <!-- Main Content Table -->
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #ffffff; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+                        
+                        <!-- Header Image -->
+                        <tr>
+                            <td align="center">
+                                <img src="https://raw.githubusercontent.com/michellebangura/assets/8c048703fcdf4d2f079f0416faf76c2804b6364b/Zain%20Invite.png" alt="Zain is Turning Four!" width="100%" style="max-width: 600px; border-top-left-radius: 12px; border-top-right-radius: 12px; display: block;">
+                            </td>
+                        </tr>
+
+                        <!-- Body Content -->
+                        <tr>
+                            <td style="padding: 30px 25px 40px 25px; text-align: center;">
+                                <h1 style="font-family: Arial, sans-serif; font-size: 28px; font-weight: bold; color: #1e3a8a; margin: 0 0 15px 0;">
+                                    Hey Team Spidey!
+                                </h1>
+                                <p style="font-family: Arial, sans-serif; font-size: 16px; color: #334155; line-height: 1.6; margin: 0 0 30px 0;">
+                                    Your friend Zain is turning four, and you're invited to a swingin' good time! Join us for pizza, ice cream, games, and a super celebration.
+                                </p>
+
+                                <!-- Details Section -->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="text-align: left; margin-bottom: 30px;">
+                                    <tr>
+                                        <!-- Date & Time -->
+                                        <td width="50%" valign="top" style="padding-right: 10px;">
+                                            <h3 style="font-family: Arial, sans-serif; font-size: 14px; color: #64748b; margin:0 0 5px 0; text-transform: uppercase;">When</h3>
+                                            <p style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #1e293b; margin:0;">Saturday, Nov 1st</p>
+                                            <p style="font-family: Arial, sans-serif; font-size: 16px; color: #475569; margin:0;">12:30 PM - 2:30 PM</p>
+                                        </td>
+                                        <!-- Location -->
+                                        <td width="50%" valign="top" style="padding-left: 10px;">
+                                            <h3 style="font-family: Arial, sans-serif; font-size: 14px; color: #64748b; margin:0 0 5px 0; text-transform: uppercase;">Where</h3>
+                                            <p style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; color: #1e293b; margin:0;">Chuck E. Cheese</p>
+                                            <p style="font-family: Arial, sans-serif; font-size: 16px; color: #475569; margin:0;">4175 S Grand Canyon Dr</p>
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <!-- RSVP Button -->
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSelZQ7xOcD-m9vJGx6abqnjqtNXrm1O_e6PQSHQ740lGcVd4g/viewform?usp=header" target="_blank" style="display: inline-block; background-color: #dc2626; color: #ffffff; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; text-decoration: none; padding: 14px 28px; border-radius: 8px;">
+                                    RSVP Here
+                                </a>
+                                <p style="font-family: Arial, sans-serif; font-size: 14px; color: #475569; margin-top: 10px;">
+                                    Please RSVP by October 25th
+                                </p>
+                            </td>
+                        </tr>
+
+                        <!-- Footer -->
+                        <tr>
+                            <td style="background-color: #f1f5f9; padding: 20px; text-align: center; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px;">
+                                <p style="font-family: Arial, sans-serif; font-size: 14px; color: #64748b; margin: 0;">
+                                    Hosted by Michelle Bangura | Questions? Call or text 415-226-9566
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
